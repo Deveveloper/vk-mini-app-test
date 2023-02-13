@@ -30,3 +30,8 @@
 - [Документация VKUI](https://vkcom.github.io/VKUI/)
 - [Иконки VK Icons](https://vkcom.github.io/icons/)
 
+## Наша группа ВКонтакте
+- [Наша группа](https://vk.com/devtopstudio)
+- [Статья о VK Mini Apps](https://vk.com/@devtopstudio-vk-mini-apps))
+
+
